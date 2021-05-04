@@ -3,4 +3,4 @@ These are the algorithms I created for MECH105 and 103 utilizing different numer
 1. Musical Arduino.
 2. Hw4 days passed.
 3. Exponential lab.
-LinSpace lab.
+4. LinSpace lab.
